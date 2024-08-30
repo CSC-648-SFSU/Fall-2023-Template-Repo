@@ -6,7 +6,7 @@
 
 1. On the Github classroom invite link, you will only have to enter your `team number` everything else is a prefix.
 2. The name of the repository should look like csc648-S0X-FA24-teamNN.
-   - SectionName should be one of 01, 02, 03 or 04 (Already prefilled).
+   - S0X will be one of 01 or 04 (Already prefilled).
    - teamNN should be your team number. Team numbers whose value is less than
      10, please pad with a 0 (e.g. team 1 is Team01 team 11 is Team11). Please
      make sure to also **remove the username from the repository as well**!
